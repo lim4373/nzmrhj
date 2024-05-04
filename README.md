@@ -1,5 +1,6 @@
 # nzmrhj
-![image](https://github.com/lim4373/nzmrhj/assets/114973162/69e02eff-3418-41c8-92e1-238779fd80f4)
+![image](https://github.com/lim4373/nzmrhj/assets/114973162/53febb33-2d86-4f17-8c88-6ea4accff808)
+
 ## Tech Stack
 ![image](https://github.com/lim4373/nzmrhj/assets/114973162/91eba161-aa03-4e33-9054-38e941f8261c)
 ![image](https://github.com/lim4373/nzmrhj/assets/114973162/e2c85024-c553-4dda-b20f-e74d62bc4911)
